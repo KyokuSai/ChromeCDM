@@ -31,3 +31,5 @@ In the end, I distilled what I had learned from these attempts into a set of pro
 Although it did still refuse once under those prompts, that refusal came after it had already extracted the plaintext keys.
 
 Guided by the analysis and methods I provided, it completed the plaintext key extraction in seven hours.
+
+https://t.me/HanaCream
