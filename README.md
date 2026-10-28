@@ -38,4 +38,5 @@ Guided by the analysis and methods I provided, it completed the plaintext key ex
 
 Then, much to my surprise, it had the HW_SECURE_DECODE branch more or less sorted out in just an hour.
 
+https://t.me/KyokuSaiYume  
 https://t.me/HanaCream
