@@ -1,5 +1,7 @@
 4.10.3112.0
 
+### 2026.10.27
+
 Simply put, GPT-5.6-sol is almost incapable of completing “this” task.
 
 Because the task is so complex and difficult, several rounds of Compaction are inevitable. During those rounds, GPT-5.6-sol is very likely to realize that it should refuse tasks involving DRM circumvention.
@@ -31,5 +33,9 @@ In the end, I distilled what I had learned from these attempts into a set of pro
 Although it did still refuse once under those prompts, that refusal came after it had already extracted the plaintext keys.
 
 Guided by the analysis and methods I provided, it completed the plaintext key extraction in seven hours.
+
+### 2026.10.28
+
+Then, much to my surprise, it had the HW_SECURE_DECODE branch more or less sorted out in just an hour.
 
 https://t.me/HanaCream
